@@ -1,0 +1,1 @@
+export const Cocktaildata = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s';
